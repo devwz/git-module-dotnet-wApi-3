@@ -1,0 +1,6 @@
+@dotnet_wApi_HostAddress = http://localhost:5271
+
+GET {{dotnet_wApi_HostAddress}}/product/
+Accept: application/json
+
+###
